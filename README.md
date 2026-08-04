@@ -31,4 +31,4 @@ python eda.py
 The project generates statistical summaries and visualizations for the Titanic dataset.
 
 ## 👨‍💻 Author
-**Abhoy Kumar Saha Antor **
+Abhoy Kumar Saha Antor 
