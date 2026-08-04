@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("data/titanic.csv")
+df = pd.read_csv("titanic.csv")
 
 print("=" * 50)
 print("First 5 Rows")
